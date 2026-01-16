@@ -7,7 +7,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hotaru-conny&theme=jolly)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hotaru-conny&theme=jolly)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,py,c,cpp,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,c,rust,arduino,unity,blender,ps,)](https://skillicons.dev)
 <!-- 
 https://github.com/tandpfun/skill-icons#readme
 -->
